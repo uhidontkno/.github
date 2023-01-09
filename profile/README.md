@@ -27,7 +27,7 @@ For this z1g Project prioritizes the production and improvement of web proxy tec
 
 #### Active
 - [BruhProx](https://github.com/z1g-project/BruhProx)
-- [Holy Unblocker](https://github.com/z1g-project/Blurred-X)
+- [Blurred-X](https://github.com/z1g-project/Blurred-X)
 - [Terbium](https://github.com/z1g-project/Terbium)
 - [TN - Hypertabs](https://github.com/B3ATDROP3R/Hypertabs)
 
@@ -42,24 +42,11 @@ For this z1g Project prioritizes the production and improvement of web proxy tec
 - Corrosion
 - Vanadium
 - Reborn
-- Alloy
-- Resilience
-- Via Unblocker (PyDodge)
-- PyDodge B
-- P2
-- Pheonix Reborn
-- Boardwalk
-- TitaniumLite
-- Powermouse
-- Material Unblocker
-- Chat-Utils (cursed)
-- Muun
-- [Athlon1600/php-proxy](https://github.com/Athlon1600/php-proxy)
 
 </details>
 
 ### Services
 - [BruhProx](https://bruhprox.johnglynn2.repl.co/)
 - [Terbium WebOS](https://terbium.johnglynn2.repl.co)
-- [Floppa v3](https://floppalibrary.z1q.repl.co/new)
+- [Project Floppa](https://sites.google.com/view/projectfloppa/)
 - [Neptunium.cc](https://neptuniumcc.z1q.repl.co)

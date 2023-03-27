@@ -27,9 +27,8 @@ For this z1g Project prioritizes the production and improvement of web proxy tec
 
 #### Active
 - [BruhProx](https://github.com/z1g-project/BruhProx)
-- [Blurred-X](https://github.com/z1g-project/Blurred-X)
 - [Terbium](https://github.com/z1g-project/Terbium)
-- [TN - Hypertabs](https://github.com/B3ATDROP3R/Hypertabs)
+- [z1g Project Website](https://github.com/z1g-project/z1g-project-web)
 
 
 #### Affiliated
@@ -42,11 +41,12 @@ For this z1g Project prioritizes the production and improvement of web proxy tec
 - Corrosion
 - Vanadium
 - Reborn
+- Rusty
 
 </details>
 
 ### Services
-- [BruhProx](https://bruhprox.johnglynn2.repl.co/)
-- [Terbium WebOS](https://terbium.johnglynn2.repl.co)
-- [Project Floppa](https://sites.google.com/view/projectfloppa/)
+- [BruhProx](https://bruhprox.glitch.me)
+- [Terbium WebOS](https://terbium-replit.johnglynn2.repl.co)
+- [Blurred's Vault](https://blurreds-vault.conceive.repl.co/)
 - [Neptunium.cc](https://neptuniumcc.z1q.repl.co)

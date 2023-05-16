@@ -12,7 +12,7 @@
 <a href="https://reddit.com/r/z1g-project"><img height="30px" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"><img></a>
 </p>
 
-**Documentation:** https://docs.z1g-project.github.io
+**Documentation:** https://docs.z1g-project.repl.co
 
 ### About
 z1g Project is an organization dedicated to providing services related to bypassing internet censorship. Our projects expect to provide users, and itself, with a less restrictive browsing experience. 
@@ -38,9 +38,8 @@ For this z1g Project prioritizes the production and improvement of web proxy tec
 - [TN - Holy Unblocker AIO](https://github.com/holy-unblocker/website-aio)
 
 #### Old Partnerships and Projects
-- Corrosion
-- Vanadium
-- Reborn
+- Lunar.dev
+- Blurred X
 - Rusty
 
 </details>
@@ -48,5 +47,12 @@ For this z1g Project prioritizes the production and improvement of web proxy tec
 ### Services
 - [BruhProx](https://bruhprox.glitch.me)
 - [Terbium WebOS](https://terbium-replit.johnglynn2.repl.co)
-- [Blurred's Vault](https://blurreds-vault.conceive.repl.co/)
+- [Blurred's Vault](https://blurreds-vault.conceive.repl.co/) 
 - [Neptunium.cc](https://neptuniumcc.z1q.repl.co)
+
+### Server Statuses
+<img src="https://img.shields.io/website?down_color=red&down_message=Offline%20%28%E2%9A%A0%20Server%20unresponsive%29&label=BruhProx&style=for-the-badge&up_color=green&up_message=Online%20%28Working%29&url=https%3A%2F%2Fbruhprox.glitch.me">
+<img src="https://img.shields.io/website?down_color=red&down_message=Offline%20%28%E2%9A%A0%20Server%20unresponsive%29&label=Terbium&style=for-the-badge&up_color=green&up_message=Online%20%28Working%29&url=https%3A%2F%2Fterbium-46q.pages.dev">
+<img src="https://img.shields.io/website?down_color=red&down_message=Offline%20%28%E2%9A%A0%20Server%20unresponsive%29&label=Terbium%20%28Replit%29&style=for-the-badge&up_color=green&up_message=Online%20%28Working%29&url=https%3A%2F%2Fterbium-replit.johnglynn2.repl.co">
+<img src="https://img.shields.io/website?down_color=red&down_message=Offline%20%28%E2%9A%A0%20Server%20unresponsive%29&label=z1g Project Website&style=for-the-badge&up_color=green&up_message=Online%20%28Working%29&url=https%3A%2F%2Fz1g-project.johnglynn2.repl.co">
+<img src="https://img.shields.io/website?down_color=red&down_message=Offline%20%28%E2%9A%A0%20Server%20unresponsive%29&label=z1g%20API%20%26%20Services&style=for-the-badge&up_color=green&up_message=Online%20%28Working%29&url=https%3A%2F%2Fcdn.z1g-project.repl.co">

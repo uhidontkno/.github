@@ -29,13 +29,13 @@ For this z1g Project prioritizes the production and improvement of web proxy tec
 <br>
 *Status*: Passing | Flagship. 
 
-**BruhProx**: https://bruhprox.pages.dev [GitHub](https://github.com/z1g-project/bruhprox)
+**BruhProx**: https://bruhprox.pages.dev | [GitHub](https://github.com/z1g-project/bruhprox)
 <br>
 *Description*: A ultraviolet based proxy used for bypassing filters while focused on efficiency
 <br>
 *Status*: Active 
 
-**Terbium**: https://terbium-46q.pages.dev [GitHub](https://github.com/z1g-project/terbium)
+**Terbium**: https://terbium-46q.pages.dev | [GitHub](https://github.com/z1g-project/terbium)
 <br>
 *Description*: A simple webos made by snoot and modded by the z1g project!
 <br>
@@ -46,6 +46,12 @@ For this z1g Project prioritizes the production and improvement of web proxy tec
 *Description*: Description not avalible. 
 <br>
 *Status*: **End of Life Stage** - No longer maintained/Phasing Out.
+
+**Neptunium.cc**:
+<br>
+*Description*: A simple Kahoot Hack from 2021
+<br>
+*Status*: **ARCHIVED** - No longer maintained/Phasing Out.
 
 ### Services
 - [BruhProx](https://bruhprox.glitch.me)

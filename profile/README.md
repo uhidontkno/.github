@@ -53,17 +53,10 @@ For this z1g Project prioritizes the production and improvement of web proxy tec
 <br>
 *Status*: **ARCHIVED** - No longer maintained/Phasing Out.
 
-### Services
-- [BruhProx](https://bruhprox.glitch.me)
-- [Terbium WebOS](https://terbium-replit.johnglynn2.repl.co)
-- [Sodium](https://sodium-5h8.pages.dev)
-- [Blurred's Vault](https://blurreds-vault.conceive.repl.co/) 
-- [Neptunium.cc](https://neptuniumcc.z1q.repl.co)
-
 ### Server Statuses
 <img src="https://img.shields.io/website?down_color=red&down_message=Offline%20%28%E2%9A%A0%20Server%20unresponsive%29&label=BruhProx&style=for-the-badge&up_color=green&up_message=Online%20%28Working%29&url=https%3A%2F%2Fbruhprox.pages.dev">
 <img src="https://img.shields.io/website?down_color=red&down_message=Offline%20%28%E2%9A%A0%20Server%20unresponsive%29&label=Sodium&style=for-the-badge&up_color=green&up_message=Online%20%28Working%29&url=https%3A%2F%2Fsodium-5h8.pages.dev">
 <img src="https://img.shields.io/website?down_color=red&down_message=Offline%20%28%E2%9A%A0%20Server%20unresponsive%29&label=Terbium&style=for-the-badge&up_color=green&up_message=Online%20%28Working%29&url=https%3A%2F%2Fterbium-46q.pages.dev">
-<img src="https://img.shields.io/website?down_color=red&down_message=Offline%20%28%E2%9A%A0%20Server%20unresponsive%29&label=Terbium%20%28Replit%29&style=for-the-badge&up_color=green&up_message=Online%20%28Working%29&url=https%3A%2F%2Fterbium-replit.johnglynn2.repl.co">
+<img src="https://img.shields.io/website?down_color=red&down_message=Offline%20%28%E2%9A%A0%20Server%20unresponsive%29&label=Terbium%20%28Replit%29&style=for-the-badge&up_color=green&up_message=Online%20%28Working%29&url=https%3A%2F%2Fterbium.johnglynn2.repl.co">
 <img src="https://img.shields.io/website?down_color=red&down_message=Offline%20%28%E2%9A%A0%20Server%20unresponsive%29&label=z1g Project Website&style=for-the-badge&up_color=green&up_message=Online%20%28Working%29&url=https%3A%2F%2Fz1g-project.johnglynn2.repl.co">
 <img src="https://img.shields.io/website?down_color=red&down_message=Offline%20%28%E2%9A%A0%20Server%20unresponsive%29&label=z1g%20API%20%26%20Services&style=for-the-badge&up_color=green&up_message=Online%20%28Working%29&url=https%3A%2F%2Fcdn.z1g-project.repl.co">

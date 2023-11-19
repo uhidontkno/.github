@@ -15,9 +15,9 @@
 **Documentation:** https://docs.z1g-project.repl.co
 
 ### About
-z1g Project is an organization dedicated to providing services related to bypassing internet censorship. Our projects expect to provide users, and itself, with a less restrictive browsing experience. 
+z1g Project is an organization dedicated to providing services related to bypassing internet censorship. Our projects expect to provide users, and themselves, with a less restrictive browsing experience. 
 
-For this z1g Project prioritizes the production and improvement of web proxy technologies such as Ultraviolet, Corrosion, etc. and the affilation with various branched projects like Rammerhead, TOMP and Womginx from contributors. 
+This z1g Project prioritizes producing and improving web proxy technologies such as Ultraviolet, Corrosion, etc., and the affiliation with various branched projects like Rammerhead, TOMP, and Womginx from contributors. 
 
 [Join our discord](https://z1g-project.johnglynn2.repl.co/discord)
 
@@ -31,19 +31,19 @@ For this z1g Project prioritizes the production and improvement of web proxy tec
 
 **BruhProx**: https://bruhprox.pages.dev | [GitHub](https://github.com/z1g-project/bruhprox)
 <br>
-*Description*: A ultraviolet based proxy used for bypassing filters while focused on efficiency
+*Description*: An ultraviolet proxy used for bypassing filters while focused on efficiency
 <br>
 *Status*: Active 
 
 **Terbium**: https://terbium-46q.pages.dev | [GitHub](https://github.com/z1g-project/terbium)
 <br>
-*Description*: A simple webos made by snoot and modded by the z1g project!
+*Description*: A simple WebOS made by Snoot and modded by the z1g project!
 <br>
 *Status*: Active
 
 **Blurred's Vault**:
 <br>
-*Description*: Description not avalible. 
+*Description*: Description not available. 
 <br>
 *Status*: **End of Life Stage** - No longer maintained/Phasing Out.
 

@@ -24,30 +24,25 @@ This z1g Project prioritizes producing and improving web proxy technologies such
 
 **Sodium**: https://sodium-5h8.pages.dev | [GitHub](https://github.com/z1g-project/sodium)
 <br>
-*Description*: Sodium is a site used for evading internet censorship.
+*Description*: Sodium is a web proxy specifically designed for evading internet censorship.
 <br>
 *Status*: Passing | Flagship. 
 
 **BruhProx**: https://bruhprox.pages.dev | [GitHub](https://github.com/z1g-project/bruhprox)
-<br>
-*Description*: An ultraviolet proxy used for bypassing filters while focused on efficiency
+<br>An ultraviolet-based proxy used for bypassing filters while focused on efficiency
 <br>
 *Status*: Active 
 
 **Terbium**: https://terbium-46q.pages.dev | [GitHub](https://github.com/z1g-project/terbium)
-<br>
-*Description*: A simple WebOS made by Snoot and modded by the z1g project!
+<br>A simple WebOS made by Snoot and modded by the z1g project!
 <br>
 *Status*: Active
 
 **Blurred's Vault**:
 <br>
-*Description*: Description not available. 
-<br>
 *Status*: **End of Life Stage** - No longer maintained/Phasing Out.
 
 **Neptunium.cc**:
-<br>
-*Description*: A simple Kahoot Hack from 2021
+A simple Kahoot Hack from 2021
 <br>
 *Status*: **ARCHIVED** - No longer maintained/Phasing Out.

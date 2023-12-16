@@ -24,19 +24,17 @@ This z1g Project prioritizes producing and improving web proxy technologies such
 
 **Sodium**: https://sodium-5h8.pages.dev | [GitHub](https://github.com/z1g-project/sodium)
 <br>
-*Description*: Sodium is a web proxy specificially designed for bypassing and evading internet censorship.
+*Description*: Sodium is a web proxy specifically designed for evading internet censorship.
 <br>
 *Status*: Passing | Flagship. 
 
 **BruhProx**: https://bruhprox.pages.dev | [GitHub](https://github.com/z1g-project/bruhprox)
-<br>
-An ultraviolet proxy used for bypassing filters while focused on efficiency
+<br>An ultraviolet-based proxy used for bypassing filters while focused on efficiency
 <br>
 *Status*: Active 
 
 **Terbium**: https://terbium-46q.pages.dev | [GitHub](https://github.com/z1g-project/terbium)
-<br>
-A simple WebOS made by Snoot and modded by the z1g project!
+<br>A simple WebOS made by Snoot and modded by the z1g project!
 <br>
 *Status*: Active
 
